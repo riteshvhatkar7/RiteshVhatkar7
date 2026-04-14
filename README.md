@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Ritesh
+
+💻 Fresher Web Developer  
+🌐 Frontend Developer (HTML, CSS, JavaScript)  
+⚡ React Learning (In Progress)  
+🎓 C, C++, Java, Python Knowledge  
+🎨 UI/UX Workshop Certified  
+
+---
+
+## 🚀 Projects
+
+- Portfolio Website (HTML, CSS, JS)
+- Complaint Management System
+- Mini JavaScript Projects
+
+---
+
+## 🛠 Skills
+
+HTML | CSS | JavaScript | React (Learning)  
+C | C++ | Java | Python | DBMS  
+
+---
+
+## 📫 Contact
+
+Email: riteshvhatkar7@gmail.com  
+GitHub: https://github.com/riteshvhatkar7
